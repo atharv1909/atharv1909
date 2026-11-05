@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyberpunk-workspace.gif" alt="Cozy cyberpunk engineering workspace at night" width="760" />
+<img src="./assets/cyberpunk-workspace.gif" alt="gif" width="760" />
 
 # Hi 👋 I’m Atharv
 
